@@ -1,0 +1,3 @@
+== Settings
+=== .vim* files
+  Files used for daily development with Vim.
